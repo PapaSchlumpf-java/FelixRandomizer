@@ -1,6 +1,6 @@
 # FelixRandomizer
 
-Serverseitige Fabric-Mod für Minecraft Java 26.2. Sobald der Randomizer aktiv
+Serverseitiges Paper-Plugin für Minecraft Java 26.2. Sobald der Randomizer aktiv
 ist, erhält jeder aktuell verbundene Spieler regelmäßig ein zufälliges Item.
 
 - 75 % Schwerter, Äxte oder Rüstung
@@ -33,4 +33,4 @@ Voraussetzung ist eine Internetverbindung. Java 25 wird bei Bedarf automatisch
 Die nutzbare Datei liegt danach unter
 `build/libs/felix-randomizer-1.0.0.jar`.
 
-Fabric API wird nicht benötigt.
+Die JAR wird in das `plugins`-Verzeichnis eines Paper-Servers kopiert.

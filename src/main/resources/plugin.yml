@@ -1,0 +1,10 @@
+name: FelixRandomizer
+version: '1.0.0'
+main: de.felix.randomizer.FelixRandomizerPlugin
+api-version: '26.2'
+description: Gives every online player a weighted random item at a configurable interval.
+
+commands:
+  randomitems:
+    description: Controls the random item timer
+    usage: /randomitems <start|stop|interval|status>
